@@ -1,0 +1,39 @@
+.Navbar img {
+    padding-top: 2rem;
+    padding-left: 7rem;
+}
+
+.Navbar ul{
+    float: right;
+    list-style: none;
+    display: flex;
+    padding-top: 1rem;
+    padding-right: 5rem;
+}
+
+.Navbar ul li a { 
+    font-size: 20px;
+    font-weight: 650;
+    margin-right: 5rem;
+    color: black;
+    list-style: none;
+    text-decoration: none;
+}
+
+.Navbar ul li a:hover {
+    color: #00A3F4;
+}
+
+.Navbar-Ellipse {
+position: absolute;
+width: 650px;
+height: 650px;
+left: -272px;
+top: -272px;
+
+background: #DFF4FF;
+filter: blur(300px);
+z-index: -100;
+}
+
+

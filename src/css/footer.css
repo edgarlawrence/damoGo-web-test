@@ -1,0 +1,32 @@
+.Footer {
+
+}
+
+.Footer .Footer-img {
+    padding-top: 5rem;
+    padding-left: 8rem;
+}
+
+.Footer .Footer-list {
+    display: inline-block;
+    padding-left: 8rem;
+}
+
+.Footer .Footer-list .Footer-list-1 ul{
+    padding-right: 5rem;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.Footer-Logo-Icon img {
+    width: 10rem;
+}
+
+.Footer-Logo {
+    display: inline-block;
+    transform: translate(40rem, -15rem);
+}
+
+.Footer-list-2 {
+    transform: translate(19rem, -17rem)
+}

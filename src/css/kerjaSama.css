@@ -1,0 +1,38 @@
+.KerjaSama {
+    text-align: center;
+}
+.KerjaSama h3 {
+    font-family: SF Compact Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #00A3F4;
+    
+}
+
+.KerjaSama h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+    transform: translateY(-1.5rem);
+}
+
+.KerjaSama-logo {
+    display: flex;
+    padding-top: 2rem;
+}
+
+.KerjaSama-logo img {
+    width: 15%;
+    height: 50%;    
+    padding-left: 5rem;
+    margin-right: 5rem;
+    filter: grayscale(100%);
+}
+
+.KerjaSama-logo img:hover {
+    filter: grayscale(0%);
+}

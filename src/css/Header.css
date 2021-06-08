@@ -1,0 +1,68 @@
+.header {
+    display: flex;
+    margin-top: 5rem;
+}
+
+.header-pt-1 {
+    margin-left: 10rem;
+    margin-top: 7rem;
+}
+
+.header-title h1{
+    font-size: 5rem;
+    line-height: 6rem;
+}
+
+.header-title h1 .waste{
+    color: #009673;
+}
+
+.header-button-1 {
+    background-color: #00A3F4;
+    color: white;
+    width: 192px;
+    height: 48px;
+    border-radius: 50px;
+    padding-top: 1rem;
+    margin-right: 2rem;
+}
+
+.header-paraf {
+    color: #5A5A5A;
+    font-weight: 500;
+    font-size: 18px;
+    transform: translateY(-20px);
+}
+
+.header-button {
+    display: flex;
+    padding-top: 2rem;
+}
+
+.header-button-1 a{
+    text-decoration: none;
+    color: white;
+    padding-left: 40px;
+}
+
+.header-button-2 {
+    background-color: white;
+    width: 192px;
+    height: 48px;
+    border-radius: 50px;
+    padding-top: 1rem;
+    border-color: #00A3F4;
+    border-style: solid;
+}
+
+.header-button-2 a{
+    text-decoration: none;
+    color: #00A3F4;
+    padding-left: 40px;
+}
+
+.header-img img {
+    width: 100%;
+    padding-left: 15rem;
+    padding-top: 5rem;
+}

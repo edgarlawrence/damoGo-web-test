@@ -1,0 +1,70 @@
+.About-2 {
+    background: linear-gradient(270deg, #FFBB00 0%, rgba(223, 244, 255, 0) 100%);
+border-radius: 0px;
+}
+
+.About-2-title {
+    padding-left: 5rem;
+}
+
+.About-2-title h3{
+    color: #FFBB00;
+    font-weight: 500;
+    font-family: SF Compact Display;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    margin-top: 5rem;
+    transform: translateY(2rem);
+}
+
+.About-2-title p {
+    font-family: SF Compact Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 43px;
+}
+
+.About-2-content {
+    font-family: SF Compact Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    padding-left: 5rem;
+    display: flex;
+}
+
+.About-2-content span {
+    color: #FFBB00;
+    font-weight: 800;
+}
+
+.About-2-pic {
+    display: flex;
+    margin-left: 23rem;
+}
+
+.About-2-button {
+    position: absolute; 
+}
+
+.About-2-button .button-1 {
+    margin-top: 13rem;
+
+    background-color: #00A3F4;
+    color: white;
+    width: 252px;
+    height: 48px;
+    border-radius: 50px;
+    padding-top: 1rem;
+    margin-right: 2rem;
+    padding-left: 4rem;
+}
+
+.About-2-button .button-1 a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
